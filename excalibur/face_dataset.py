@@ -36,6 +36,7 @@ def myfun(name,username):
                 os.mkdir(x)
             os.chdir("..")
             img_counter += 1
+            #this is a image counter
 
     cam.release()
 
